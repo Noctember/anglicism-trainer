@@ -1,0 +1,21 @@
+{
+  "questions": [
+    {
+      "answer": "Sans préjudice",
+      "choices": [
+        "Sous toutes réserves",
+        "Sous réserve de tous droits",
+        "Sans préjudice"
+      ]
+    },
+    {
+      "answer": "sauver de l'argent",
+      "choices": [
+        "sauver de l'argent",
+        "économiser de l'argent",
+        "épargner de l'argent",
+        "faire des économies"
+      ]
+    }
+  ]
+}
