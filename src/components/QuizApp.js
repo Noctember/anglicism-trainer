@@ -17,15 +17,18 @@ class QuizApp extends Component {
     }
 
     handleClicks = (question, pressed) => (e) => {
-        const { score, num} = this.state
+        const {score, num} = this.state
         if (question.answer === pressed) {
             this.setState({
                 score: score + 1,
-                num: num + 1
             })
+            // TODO: Some effect
         } else {
-
+            // TODO: Some effect
         }
+        this.setState({
+            num: num + 1
+        })
     }
 
     render() {
