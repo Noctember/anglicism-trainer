@@ -26,6 +26,7 @@ h1, h3 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    box-shadow: 0 10px 12px 0px rgb(0 0 0 / 20%);
 }
 
 .answers-box {
@@ -52,6 +53,8 @@ h1, h3 {
     text-align: center;
     padding: 15px;
     margin: 10px;
+    box-shadow: 0 10px 12px 0px rgb(0 0 0 / 20%);
+    transition: all .2s ease-in-out;
 }
 .answers-element > p {
     margin: 0;
@@ -61,9 +64,6 @@ h1, h3 {
     font-weight: bold;
 }
 
-.answers-element {
-    transition: all .2s ease-in-out;
-}
 .answers-element:hover {
     transform: scale(1.02);
     background-color: #7f1edf;
@@ -78,7 +78,7 @@ h1, h3 {
     border-radius: 2.5px;
     background-color: rgb(255 34 34);
     display: flex;
-    margin: 20px 20px 0px 20px;
+    margin: 20px 30px 0px 30px;
 }
 .success-bar {
     background-color: rgb(98, 253, 118);
@@ -88,7 +88,7 @@ h1, h3 {
 .text-success {
     font-size: 20px;
     text-align: right;
-    margin: 10px 20px 0px 20px;
+    margin: 10px 30px 0px 30px;
 }
 
 .division {
@@ -101,4 +101,24 @@ h1, h3 {
     text-align: left;
     margin: 20px 10px 0px 10px;
     font-weight: bold;
+}
+
+.credit-content {
+    position: fixed;
+    left: 100%;
+    top: 100%;
+    width: fit-content;
+    transform: translate(calc(-100% - 10px), calc(-100% - 10px));
+}
+.credit-links {
+    text-decoration: none;
+    display: inline;
+    color: #b060ff;
+}
+a:link, a:visited {
+    color: #c347bf;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
