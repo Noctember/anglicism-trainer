@@ -4,7 +4,7 @@ body {
     color: #FFFFFF;
 }
 
-.root {
+.container {
     background: rgb(9,13,121);
     background: linear-gradient(21deg, rgba(9,13,121,1) 0%, rgba(61,9,121,1) 45%, rgba(136,0,170,1) 100%);
     min-height: 100%;
@@ -16,7 +16,7 @@ h1, h3 {
     margin: 10px 0px 20px 0px;
 }
 
-.container {
+#root {
     min-width: 300px;
     margin: 0 auto;
     background-color: rgb(9 0 48);
@@ -101,24 +101,4 @@ h1, h3 {
     text-align: left;
     margin: 20px 10px 0px 10px;
     font-weight: bold;
-}
-
-.credit-content {
-    position: fixed;
-    left: 100%;
-    top: 100%;
-    width: fit-content;
-    transform: translate(calc(-100% - 10px), calc(-100% - 10px));
-}
-.credit-links {
-    text-decoration: none;
-    display: inline;
-    color: #b060ff;
-}
-a:link, a:visited {
-    color: #c347bf;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
 }

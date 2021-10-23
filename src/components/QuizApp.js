@@ -1,6 +1,7 @@
 import {Component, Fragment} from "react";
 import Quiz from './Quiz'
 import {questions} from '../data/questions'
+import shuffle from "./Shuffle";
 
 class QuizApp extends Component {
     state = {
@@ -9,26 +10,25 @@ class QuizApp extends Component {
 
     getInitialState() {
         return {
-            questions: this.shuffle(questions),
+            questions: shuffle(questions),
             score: 0,
             num: 0
         };
     }
 
-    shuffle(arr) {
-        return arr.sort((a, b) => Math.random() < .5 ? 1 : -1);
-    }
-
     handleClicks = (question, pressed) => (e) => {
-        const { score, num} = this.state
+        const {score, num} = this.state
         if (question.answer === pressed) {
             this.setState({
                 score: score + 1,
-                num: num + 1
             })
+            // TODO: Some effect
         } else {
-
+            // TODO: Some effect
         }
+        this.setState({
+            num: num + 1
+        })
     }
 
     render() {
