@@ -1,4 +1,5 @@
 import {Component} from "react";
+import shuffle from "./Shuffle";
 
 class Answer extends Component {
     render() {
@@ -22,7 +23,7 @@ class QuestionList extends Component {
                     Quel est l'anglicisme?
                 </h2>
                 <ul className="question-answers" tabIndex="-1">
-                    {this.props.question.choices.map((choice, index) => {
+                    {shuffle(this.props.question.choices).map((choice) => {
                         return (
                             <Answer
                                 key={choice}
