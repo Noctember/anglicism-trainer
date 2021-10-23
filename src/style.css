@@ -17,7 +17,7 @@ h1, h3 {
 }
 
 #root {
-    min-width: 300px;
+    min-width: 400px;
     margin: 0 auto;
     background-color: rgb(9 0 48);
     border-radius: 30px;
@@ -31,14 +31,13 @@ h1, h3 {
 
 .answers-box {
     max-width: 100%;
-    min-height: 300px;
+    height: 325px;
     background-color: rgb(38 21 114);
     border-radius: 20px;
 
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 
     padding: 10px;
 
@@ -51,7 +50,7 @@ h1, h3 {
     border-width: 2px;
     border-radius: 20px;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
     box-shadow: 0 10px 12px 0px rgb(0 0 0 / 20%);
     transition: all .2s ease-in-out;
@@ -59,7 +58,7 @@ h1, h3 {
 .answers-element > p {
     margin: 0;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     user-select: none;
     font-weight: bold;
 }
@@ -82,7 +81,6 @@ h1, h3 {
 }
 .success-bar {
     background-color: rgb(98, 253, 118);
-    min-width: 25%;
     transition: all 1s ease-in-out;
 }
 .text-success {
@@ -101,4 +99,24 @@ h1, h3 {
     text-align: left;
     margin: 20px 10px 0px 10px;
     font-weight: bold;
+}
+
+.credit-content {
+    position: fixed;
+    left: 100%;
+    top: 100%;
+    width: fit-content;
+    transform: translate(calc(-100% - 10px), calc(-100% - 10px));
+}
+.credit-links {
+    text-decoration: none;
+    display: inline;
+    color: #b060ff;
+}
+a:link, a:visited {
+    color: #c347bf;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }

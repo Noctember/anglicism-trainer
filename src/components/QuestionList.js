@@ -1,16 +1,14 @@
 import {Component} from "react";
 import shuffle from "./Shuffle";
 
-class Answer extends Component {
+class AnswerBox extends Component {
     render() {
         return (
-            <p
-                className="question-answer"
-                tabIndex="0"
-                onClick={this.props.handleAnswerClick}
-            >
-                {this.props.answer}
-            </p>
+            <div className="answers-element" tabIndex="-1" onClick={this.props.handleAnswerClick}>
+                <p className="question-answer" tabIndex="0" >
+                    {this.props.answer}
+                </p>
+            </div>
         );
     }
 }
@@ -21,13 +19,11 @@ class QuestionList extends Component {
             <div className="answers-box">
                 {shuffle(this.props.question.choices).map((choice) => {
                     return (
-                        <div className="answers-element" tabIndex="-1">
-                            <Answer
-                                key={choice}
-                                answer={choice}
-                                handleAnswerClick={this.props.handleAnswerClick(this.props.question, choice)}
-                            />
-                        </div>
+                        <AnswerBox
+                            key={choice}
+                            answer={choice}
+                            handleAnswerClick={this.props.handleAnswerClick(this.props.question, choice)}
+                        />
                     );
                 })}
             </div>

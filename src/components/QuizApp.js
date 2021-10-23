@@ -3,6 +3,12 @@ import Quiz from './Quiz'
 import {questions} from '../data/questions'
 import shuffle from "./Shuffle";
 
+const StatusMessage = [
+    "Cliquez sur un des choix pour commencer.",
+    "Bonne réponse. L'anglicisme est: ",
+    "Mauvaise réponse. L'anglicisme est: "
+];
+
 class QuizApp extends Component {
     state = {
         ...this.getInitialState()
@@ -12,18 +18,27 @@ class QuizApp extends Component {
         return {
             questions: shuffle(questions),
             score: 0,
-            num: 0
+            num: 0,
+            status: StatusMessage[0]
         };
     }
 
     handleClicks = (question, pressed) => (e) => {
-        const {score, num} = this.state
+        console.log("click");
+
+        const {score, num, status} = this.state
         if (question.answer === pressed) {
             this.setState({
                 score: score + 1,
             })
+            this.setState({
+                status: StatusMessage[1] + (' ' + question.answer).slice(1),
+            })
             // TODO: Some effect
         } else {
+            this.setState({
+                status: StatusMessage[2] + (' ' + question.answer).slice(1),
+            })
             // TODO: Some effect
         }
         this.setState({
@@ -32,13 +47,14 @@ class QuizApp extends Component {
     }
 
     render() {
-        const {questions, score, num} = this.state
+        const {questions, score, num, status} = this.state
         return (
             <Fragment>
                 <Quiz
                     num={num}
                     questions={questions}
                     score={score}
+                    status={status}
                     handleAnswerClick={this.handleClicks}
                 />
             </Fragment>
