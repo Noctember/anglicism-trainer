@@ -24,22 +24,16 @@ class QuizApp extends Component {
     }
 
     handleClicks = (question, pressed) => (e) => {
-        console.log("click");
-
-        const {score, num, status} = this.state
+        const {score, num} = this.state
         if (question.answer === pressed) {
             this.setState({
                 score: score + 1,
-            })
-            this.setState({
                 status: StatusMessage[1] + (' ' + question.answer).slice(1),
             })
-            // TODO: Some effect
         } else {
             this.setState({
                 status: StatusMessage[2] + (' ' + question.answer).slice(1),
             })
-            // TODO: Some effect
         }
         this.setState({
             num: num + 1

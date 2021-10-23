@@ -3,13 +3,12 @@ import QuestionList from "./QuestionList";
 
 class Quiz extends Component {
     render() {
-
         let percent = 100;
-        if(this.props.num != 0) {
+        if (this.props.num != 0) {
             percent = Math.round((this.props.score / this.props.num) * 100);
         }
         const barStyle = {
-            minWidth:`${percent}%`
+            minWidth: `${percent}%`
         };
 
         return (

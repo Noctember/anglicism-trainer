@@ -5,8 +5,8 @@ body {
 }
 
 .container {
-    background: rgb(9,13,121);
-    background: linear-gradient(21deg, rgba(9,13,121,1) 0%, rgba(61,9,121,1) 45%, rgba(136,0,170,1) 100%);
+    background: rgb(9, 13, 121);
+    background: linear-gradient(21deg, rgba(9, 13, 121, 1) 0%, rgba(61, 9, 121, 1) 45%, rgba(136, 0, 170, 1) 100%);
     min-height: 100%;
     min-width: 100%;
     position: fixed;
@@ -55,6 +55,7 @@ h1, h3 {
     box-shadow: 0 10px 12px 0px rgb(0 0 0 / 20%);
     transition: all .2s ease-in-out;
 }
+
 .answers-element > p {
     margin: 0;
     color: white;
@@ -67,6 +68,7 @@ h1, h3 {
     transform: scale(1.02);
     background-color: #7f1edf;
 }
+
 .answers-element:active {
     background-color: #b060ff;
     border-color: #b060ff;
@@ -79,10 +81,12 @@ h1, h3 {
     display: flex;
     margin: 20px 30px 0px 30px;
 }
+
 .success-bar {
     background-color: rgb(98, 253, 118);
     transition: all 1s ease-in-out;
 }
+
 .text-success {
     font-size: 20px;
     text-align: right;
@@ -94,6 +98,7 @@ h1, h3 {
     background-color: rgb(38 21 114);
     margin: 40px -10px 0px -10px;
 }
+
 .text-correct-answer {
     font-size: 20px;
     text-align: left;
@@ -108,15 +113,18 @@ h1, h3 {
     width: fit-content;
     transform: translate(calc(-100% - 10px), calc(-100% - 10px));
 }
+
 .credit-links {
     text-decoration: none;
     display: inline;
     color: #b060ff;
 }
+
 a:link, a:visited {
     color: #c347bf;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
 }

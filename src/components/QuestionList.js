@@ -5,7 +5,7 @@ class AnswerBox extends Component {
     render() {
         return (
             <div className="answers-element" tabIndex="-1" onClick={this.props.handleAnswerClick}>
-                <p className="question-answer" tabIndex="0" >
+                <p className="question-answer" tabIndex="0">
                     {this.props.answer}
                 </p>
             </div>
