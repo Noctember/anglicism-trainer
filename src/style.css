@@ -17,7 +17,7 @@ h1, h3 {
 }
 
 .container {
-	min-width: 60%;
+    min-width: 300px;
     margin: 0 auto;
     background-color: rgb(9 0 48);
     border-radius: 30px;
