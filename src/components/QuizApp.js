@@ -3,6 +3,7 @@ import Quiz from './Quiz'
 import {questions} from '../data/questions'
 import shuffle from "./Shuffle";
 
+
 const StatusMessage = [
     "Cliquez sur un des choix pour commencer.",
     "Bonne réponse. L'anglicisme est: ",

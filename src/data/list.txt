@@ -26,6 +26,7 @@ la nouvelle à l'effet que..., la nouvelle voulant que ... selon laquelle...
 faire des altérations, faire des retouches, faire des modifications
 choisir entre deux alternatives, choisir entre deux possibilités, choisir entre deux solutions
 hésiter entre deux alternatives, hésiter devant une alternative, hésiter entre deux partis
+
 ===== PAGE 2
 10 h a. m., 10 h, 10 heures du matin, 10:00
 anticiper une amélioration, s'attendre à une amélioration, prévoir une amélioration
@@ -68,6 +69,7 @@ un badge de congressiste, un porte-nom de congressiste
 la balance de la commande, le reste de la commande
 la balance d'un compte, le solde d'un compte
 un bed and breakfast, un gîte touristique, un couette et café
+
 ===== PAGE 3
 Bellboy, téléavertisseur, radiomessageur, messageur
 appeler quelqu'un sur son Bellboy, envoyer un message à quelqu'un, appeler quelqu'un par son téléavertisseur
@@ -115,6 +117,7 @@ appel à charges renversées, appel à frais virés
 Chargez cela à mon compte, Mettez cela sur mon compte, Portez cela à mon compte
 chiffre de jour, le poste de jour, le quart de jour
 shift de jour, le poste de jour, le quart de jour
+
 ===== PAGE 4
 nom corporatif, nom de société, dénomination sociale, raison sociale
 profil corporatif, profil d'entreprise
@@ -132,7 +135,7 @@ coupures budgétaires, restrictions budgétaires, compressions budgétaires
 cueillette de données, collecte de données, collecte de fonds
 cueillette de fonds, collecte de données, collecte de fonds
 écrire à la dactylo, écrire à la machine à écrire
-De :, Expéditeur : ou Expéditeurs :, Expéditrice ou Expéditrices :, Expéditeur ou expéditrice : Exp.:,
+De :, Expéditeur(s) :, Exp.:
 durant la dernière décade, durant la dernière décénie
 de d'autres, d'autres
 un déductible de 200 $, une franchise de 200 $
@@ -161,6 +164,7 @@ Duo-Tang, classeur à attaches, reliure à attaches
 éviter la duplication des tâches, éviter le chevauchement, éviter la répétition inutile des tâches
 taux d'échange, taux de change
 effectif au, en vigueur le, à partir du
+
 ===== PAGE 5
 date effective, date d'entrée en vigueur, date d'entrée en application, date d'effet, prise d'effet
 ne pas élaborer, ne pas donner de détails, ne pas donner de précisions, ne pas s'étendre
@@ -209,4 +213,131 @@ vice-président exécutif/vice-présidente exécutive, vice-président-directeur
 exempt taxe fédérale, exempt de taxe fédérale, exemption : taxe fédérale
 extension 24, poste 24
 extensionner un délai, prolonger un délai
+
 ===== PAGE 6
+date facturée, date de facturation
+faire un retour d'appel, rappeler, répondre à un (ou des) appel(s), répondre à un (ou des) message(s) téléphonique(s
+trouver un faux prétexte, trouver un prétexte, une fausse raison
+fax, télécopie, télécopieur
+Faxer, télécopier
+Félicitation!, Félicitations!
+fermer la ligne, гасcrocher
+figurer le coût de, estimer le coût, prévoir le coût, calculer le coût 
+ranger un dossier dans la filière, ranger un dossier dans le classeur
+une décision finale, une décision sans appel
+une version finale, une version définitive
+année fiscale, année financière, budgétaire exercice financier, exercice
+un chèque sans fonds, un chèque sans provision
+forger une signature, contrefaire une signature, imiter une signature
+Deux sociétés se sont fusionnées, Deux sociétés ont fusionné
+dans le futur, à l'avenir
+Elle a gagné son point.,Elle a eu gain de cause., Elle a convaincu ses interlocuteurs.
+Gardez la ligne!, Ne quittez pas !, Un instant, s'il vous plaît!
+gérant d'artiste, impresario, agent/agente d'artiste
+gérant de banque, directeur/directrice de banque
+gérant/gérente de département, le ou la chef de rayon
+gérant/gérante des ventes, le/la chef des ventes, le directeur/la directrice des ventes
+Grâce aux taux d'intérêt élevés; cette entreprise a fait faillite., À cause des taux d'intérêt élevés; cette entreprise a fait faillite.
+pour un grand total de, pour un total de
+heures d'affaires,  heures d'ouverture, heures de bureau 
+mettre sur le hold, mettre en garde, mettre en attente 
+une situation hors de notre contrôle, une situation indépendante de notre volonté, une situation imprévisible 
+être hors d'ordre, présenter une proposition non recevable, poser une question irrecevable, ne pas avoir la parole
+question irrecevable , question hors d'ordre
+carte d'identification, carte d'identité
+Veuillez vous identifier., Veuillez vous nommer., Veuillez vous présenter., Veuillez établir votre identité.
+identifier des différences, établir des différences
+identifier des objectifs, déterminer des objectifs 
+identifier les raisons, donner les raisons, préciser les raisons
+identifier trois produits, nommer trois produit, citer trois produit, indiquer trois produit, énumérer trois produits 
+Vous n'êtes pas sans ignorer., Vous n'ignorez pas., Vous n'êtes pas sans savoir., Vous savez sans doute.
+Il me (nous) fait plaisir de, J'ai (Nous avons) le plaisir de, C'est avec plaisir que je (nous) 
+imputabilité des gestionnaires, responsabilité des gestionnaires, responsabilisation des gestionnaires, obligation de rendre compte
+
+===== PAGE 7
+Les gestionnaires sont imputables à…, Les gestionnaires sont responsables devant…, Les gestionnaires sont comptables à…
+une conduite inappropriée, une conduite déplacée, un conduite inconvenante
+un moment inapproprié, un moment inopportun, un mauvais moment 
+des propos inappropriés, des propos déplacés, des propos incorrects 
+entrer par infraction dans un local, entrer par effraction dans un local
+initialer une note, parafer une note, apposer ses initiales sur une note
+initialer un document, parafer un document, apposer ses initiales sur un document
+initier une recherche, commencer une recherche, entamer une recherche, entreprendre une recherche 
+les personnes intéressées à participer, les personnes désireuses de participer les personnes qui souhaitent, qui désirent participer
+les personnes intéressées au dossier, les personnes qui s'intéressent au dossier les personnes que le dossier intéresse
+avoir un article en inventaire, avoir un article en stock, avoir un article en magasin
+faire la rotation des inventaires, faire la rotation des stocks
+un item de discussion, un sujet de discussion
+mettre un item à l'ordre du jour, mettre une question à l'ordre du jour, un point à l'ordre du jour, un sujet à l'ordre du jour
+Plusieurs items sont en solde., Plusieurs articles sont en solde.
+les items d'un budget, les articles d'un budget
+les items d'un livre de comptes , les postes d'un livre de comptes
+joindre un parti, adhérer à un parti 
+jouir d'une mauvaise réputation, avoir une mauvaise réputation 
+commis junior, commis débutant, second commis
+Les jurys se sont retirés pour délibérer., Les jurés se sont retirés pour délibérer., Le jury s'est retiré pour délibérer.
+être justifié de faire quelque chose, être en droit de faire quelque chose, avoir raison de faire quelque chose
+format légal, grand format, format 8 1/2 x 14 
+le Service légal, le Service juridique 
+une poursuite légale, une poursuite judiciaire
+une secrétaire légale, une secrétaire juridique 
+On leur a aidés à finir le travail, On les a aidés à finir le travail
+une levée de fonds, une campagne de financement, une collecte de fonds, une souscription
+Licence complète, Permis d'alcool Vin, bière et spiritueux 
+la licence de la voiture, la plaque d'immatriculation de la voiture 
+avoir ses licences à 16 ans, avoir son permis de conduire à 16 ans 
+Restaurant licencié, Restaurant avec permis d'alcool 
+Épicerie licenciée, Bière, vin et cidre 
+couper la ligne, couper la communication
+travailler dans telle ou telle ligne, exercer telle ou telle profession, avoir telle ou telle spécialité, travailler dans tel ou tel domaine
+le prix de liste, le prix courant
+le livre des minutes, le registre des procès-verbaux
+demander le local 37, demander le poste 37
+loger un appel (domaine judiciaire), interjeter appel, en appeler de,
+loger un appel (téléphonique), faire un appel téléphonique téléphoner, appeler
+loger un grief, déposer un grief, présenter un grief
+loger une plainte, déposer une plainte, porter plainte
+un appel longue distance, un appel interurbain, un interurbain une communication interurbaine 
+un longue distance,  un appel interurbain, un interurbain une communication interurbaine 
+Ils l'ont aidé à finir le travail., Ils lui ont aidé à finir le travail.
+
+===== PAGE 8
+La malle est arrivée, Le courrier est arrivé
+envoyer une lettre par la malle, envoyer une lettre par la poste 
+maller une lettre, poster une lettre, mettre une lettre à la poste
+manufacturier de meubles, fabricant de meubles
+manufacturier d'automobiles, constructeur d'automobiles
+C'est notre meilleur vendeur., C'est notre succès de vente, C'est notre succès de librairie, C'est notre article à succès
+le membership de l'association, l'effectif, les membres de l'association, le nombre de membres de l'association 
+le prix littéraire qu'il s'est mérité, le prix littéraire qu'il a reçu, le prix littéraire qui lui a été décerné
+se mériter un trophé, remporter un trophé, remporter un trophée
+le Montréal métropolitain, l'agglomération montréalaise ,l'agglomération de Montréal 
+les minutes de la réunion, compte rendu de la réunion 
+les minutes de la séance, le procès-verbal de la séance
+les clauses monétaires de la convention collective, les clauses salariales de la convention collective
+avoir le monopole exclusif de, avoir le monopole de
+une salle de montre, une salle d'exposition
+nil, néant 
+au niveau du travail, pour ce qui est du travail, en ce qui concerne le travail, en matière de travail 
+au niveau financier, sur le plan financier
+choisir un nom corporatif, choisir un nom de société, choisir une dénomination sociale, choisir une raison sociale
+non applicable/NA, sans objet, S. O., S. O.
+donner sa notice, donner sa démission, remettre sa démission
+numéro civique, numéro (d'immeuble)
+Quelle est votre occupation?, Quelle est votre profession?
+un officier du syndicat, un membre du bureau, un dirigeant syndical, une dirigeante syndicale
+les bénéfices d'opération, les bénéfices d'exploitation
+les coûts d'opération, les frais d'exploitation, les frais de production, les frais de fabrication 
+machine en opération, machine en marche
+station en opération, station en service
+usine en opération, usine en activité
+système en opération, système qui fonctionne 
+l'opération de l'usine, l'exploitation de l'usine
+opérer un commerce , tenir un commerce, exploiter un commerce
+profiter de l'opportunité de, profiter de l'occasion de
+situation présentant des opportunités, situation présentant des avantages, situation présentant des possibilités, situation présentant des perspective d'avenir
+question d'ordre, question relative au règlement, question sur un point de règlement, question invoquant le règlement
+originer de, provenir de, prendre naissance à
+il y a une ouverture, il y a un emploi vacant, il y a une vacance, il y a un poste offert
+de nouvelles ouvertures , de nouveaux débouchés
+Pagette, téléavertisseur, radiomessageur, messageur, récepteur de radiomessagerie
