@@ -9,3 +9,8 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
+
+// Disable scrolling.
+document.ontouchmove = function (e) {
+    e.preventDefault();
+}
