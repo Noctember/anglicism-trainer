@@ -16,16 +16,18 @@ class AnswerBox extends Component {
 class QuestionList extends Component {
     render() {
         return (
-            <div className="answers-box">
-                {shuffle(this.props.question.choices).map((choice) => {
-                    return (
-                        <AnswerBox
-                            key={choice}
-                            answer={choice}
-                            handleAnswerClick={this.props.handleAnswerClick(this.props.question, choice)}
-                        />
-                    );
-                })}
+            <div className="answers-box-wrapper">
+                <div className="answers-box-content">
+                    {shuffle(this.props.question.choices).map((choice) => {
+                        return (
+                            <AnswerBox
+                                key={choice}
+                                answer={choice}
+                                handleAnswerClick={this.props.handleAnswerClick(this.props.question, choice)}
+                            />
+                        );
+                    })}
+                </div>
             </div>
         );
     }
