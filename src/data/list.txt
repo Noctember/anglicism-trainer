@@ -90,13 +90,13 @@ notre branche à Sherbrooke, notre succursale de Sherbrooke
 avant le break de 10h, avant la pause de 10h, la pause-café de 10 h
 bris de contrat, rupture de contrat
 Il y a un bug dans le système., Il y a un bogue dans le système.
-bumper quelqu'un, supplanter quelqu'un , evincer quelqu'un
+bumper quelqu'un, supplanter quelqu'un, evincer quelqu'un
 bureau-chef, siège social
 bureau des directeurs, conseil d'administration
 bureau des gouverneurs, conseil d'administration
 année de calendrier, année civile
 jour de calendrier, jour civil
-cancellation,  annulation
+cancellation, annulation
 canceller un chèque, annuler un chèque
 canceller un rendez-vous, annuler un rendez-vous
 carte d'affaires, carte professionnelle, carte de visite
@@ -154,7 +154,7 @@ avoir des dépendants, avoir des personnes à charge
 construire un nouveau développement, construire un nouveau lotissement
 développeur (immobilier), promoteur (immobilier), lotisseur
 directeur (d'un conseil d'administration), administrateur, membre (d'un conseil d'administration)
-Cet article est disponible au prix de, Cet article est en vente à, Cet article est offert à,
+Cet article est disponible au prix de, Cet article est en vente à, Cet article est offert à
 Ils se sont divorcés il y a deux ans, Ils ont divorcé il y a deux ans.
 J'ai vu docteur (ou D) Gagnon, J'ai vu le docteur (ou le D') Gagnon
 le commerce domestique, le commerce intérieur
@@ -231,7 +231,7 @@ un chèque sans fonds, un chèque sans provision
 forger une signature, contrefaire une signature, imiter une signature
 Deux sociétés se sont fusionnées, Deux sociétés ont fusionné
 dans le futur, à l'avenir
-Elle a gagné son point.,Elle a eu gain de cause., Elle a convaincu ses interlocuteurs.
+Elle a gagné son point., Elle a eu gain de cause., Elle a convaincu ses interlocuteurs.
 Gardez la ligne!, Ne quittez pas !, Un instant, s'il vous plaît!
 gérant d'artiste, impresario, agent/agente d'artiste
 gérant de banque, directeur/directrice de banque
@@ -239,11 +239,11 @@ gérant/gérente de département, le ou la chef de rayon
 gérant/gérante des ventes, le/la chef des ventes, le directeur/la directrice des ventes
 Grâce aux taux d'intérêt élevés; cette entreprise a fait faillite., À cause des taux d'intérêt élevés; cette entreprise a fait faillite.
 pour un grand total de, pour un total de
-heures d'affaires,  heures d'ouverture, heures de bureau 
+heures d'affaires, heures d'ouverture, heures de bureau 
 mettre sur le hold, mettre en garde, mettre en attente 
 une situation hors de notre contrôle, une situation indépendante de notre volonté, une situation imprévisible 
 être hors d'ordre, présenter une proposition non recevable, poser une question irrecevable, ne pas avoir la parole
-question irrecevable , question hors d'ordre
+question irrecevable, question hors d'ordre
 carte d'identification, carte d'identité
 Veuillez vous identifier., Veuillez vous nommer., Veuillez vous présenter., Veuillez établir votre identité.
 identifier des différences, établir des différences
@@ -271,7 +271,7 @@ un item de discussion, un sujet de discussion
 mettre un item à l'ordre du jour, mettre une question à l'ordre du jour, un point à l'ordre du jour, un sujet à l'ordre du jour
 Plusieurs items sont en solde., Plusieurs articles sont en solde.
 les items d'un budget, les articles d'un budget
-les items d'un livre de comptes , les postes d'un livre de comptes
+les items d'un livre de comptes, les postes d'un livre de comptes
 joindre un parti, adhérer à un parti 
 jouir d'une mauvaise réputation, avoir une mauvaise réputation 
 commis junior, commis débutant, second commis
@@ -293,12 +293,12 @@ travailler dans telle ou telle ligne, exercer telle ou telle profession, avoir t
 le prix de liste, le prix courant
 le livre des minutes, le registre des procès-verbaux
 demander le local 37, demander le poste 37
-loger un appel (domaine judiciaire), interjeter appel, en appeler de,
+loger un appel (domaine judiciaire), interjeter appel, en appeler de
 loger un appel (téléphonique), faire un appel téléphonique téléphoner, appeler
 loger un grief, déposer un grief, présenter un grief
 loger une plainte, déposer une plainte, porter plainte
 un appel longue distance, un appel interurbain, un interurbain une communication interurbaine 
-un longue distance,  un appel interurbain, un interurbain une communication interurbaine 
+un longue distance, un appel interurbain, un interurbain une communication interurbaine 
 Ils l'ont aidé à finir le travail., Ils lui ont aidé à finir le travail.
 
 ===== PAGE 8
@@ -310,8 +310,8 @@ manufacturier d'automobiles, constructeur d'automobiles
 C'est notre meilleur vendeur., C'est notre succès de vente, C'est notre succès de librairie, C'est notre article à succès
 le membership de l'association, l'effectif, les membres de l'association, le nombre de membres de l'association 
 le prix littéraire qu'il s'est mérité, le prix littéraire qu'il a reçu, le prix littéraire qui lui a été décerné
-se mériter un trophé, remporter un trophé, remporter un trophée
-le Montréal métropolitain, l'agglomération montréalaise ,l'agglomération de Montréal 
+se mériter un trophé, remporter un trophé
+le Montréal métropolitain, l'agglomération montréalaise, l'agglomération de Montréal 
 les minutes de la réunion, compte rendu de la réunion 
 les minutes de la séance, le procès-verbal de la séance
 les clauses monétaires de la convention collective, les clauses salariales de la convention collective
@@ -321,7 +321,7 @@ nil, néant
 au niveau du travail, pour ce qui est du travail, en ce qui concerne le travail, en matière de travail 
 au niveau financier, sur le plan financier
 choisir un nom corporatif, choisir un nom de société, choisir une dénomination sociale, choisir une raison sociale
-non applicable/NA, sans objet, S. O., S. O.
+non applicable/NA, sans objet, S. O.
 donner sa notice, donner sa démission, remettre sa démission
 numéro civique, numéro (d'immeuble)
 Quelle est votre occupation?, Quelle est votre profession?
@@ -333,11 +333,186 @@ station en opération, station en service
 usine en opération, usine en activité
 système en opération, système qui fonctionne 
 l'opération de l'usine, l'exploitation de l'usine
-opérer un commerce , tenir un commerce, exploiter un commerce
+opérer un commerce, tenir un commerce, exploiter un commerce
 profiter de l'opportunité de, profiter de l'occasion de
 situation présentant des opportunités, situation présentant des avantages, situation présentant des possibilités, situation présentant des perspective d'avenir
 question d'ordre, question relative au règlement, question sur un point de règlement, question invoquant le règlement
 originer de, provenir de, prendre naissance à
 il y a une ouverture, il y a un emploi vacant, il y a une vacance, il y a un poste offert
-de nouvelles ouvertures , de nouveaux débouchés
+de nouvelles ouverturese, de nouveaux débouchés
 Pagette, téléavertisseur, radiomessageur, messageur, récepteur de radiomessagerie
+
+=== PAGE 9
+appeler quelqu'un sur sa Pagette, appeler quelqu'un (par téléavertisseur, par radiomessagerie)
+pager quelqu'un, téléavertir, envoyer un message à quelqu'un
+paie de vacances, indemnité de vacances
+paiemaître, payeur, payeuse 
+pamphlet (publicitaire), brochure, dépliant (publicitaire), prospectus 
+deux par cinq (dimensions), deux sur cinq 
+24 h par jour, 24 h sur 24, nuit et jour, en permanence, sans interruption
+7 jours par semaine, 7 jours sur 7, tous les jours, en permanence, sans interruption
+une profession paralégale, une profession parajuridique
+un ordinateur pareil comme le mien, un ordinateur comme le mien, un ordinateur pareil au mien 
+C'est pareil comme avant, C'est comme avant. 
+Il ne l'a pas fait par exprès, Il ne l'a pas fait exprès.
+parler que, dire que, parler de
+entendre parler que, entendre dire que, entendre parler de
+partir à son compte, s'établir à son compte
+partir une entreprise, fonder une entreprise, créer une entreprise, lancer une entreprise, monter une entreprise 
+partir une commerce, ouvrir un commerce
+Pas d'admission, Défense d'entrer, Accès interdit
+Pas d'admission sans affaires, Entrée interdite sans autorisation
+passé date, périmé, expiré
+passé dû, échu
+marchandise passé dû, marchandise en souffrance
+dette passé dû, dette arriéré
+2% sur compte passé 30 jours, 2% sur compte impayé après 30 jours
+passer une loi, prendre une loi, adopter une loi
+passer un règlement, prender un règlement, adopter un règlement
+éviter le patronage, éviter le favoritisme
+payable sur livraison, payable à la livraison, contre remboursement
+payable sur réception de la facture, payable à la réception de la facture
+les payeurs de taxes, les contribuables
+des avantages pécuniers, des avantages pécuniaires
+recevoir un per diem, recevoir une indemnité quotidienne, une indemnité forfaitaire, une allocation quotidienne, un forfait quotidien
+place d'affaires, établissement, bureau maison de commerce
+la principale place d'affaires de l'entreprise, le siège social de l'entreprise
+placer un appel, faire un appel, appeler, téléphoner, donner un coup de téléphone
+placer un grief, formuler un grief
+placer une commande, passer une commande, commander
+travailler au deuxième plancher, travailler au deuxième étage
+deuxième plus grande ville du monde, la deuxième ville du monde
+le deuxième plus gros producteur de blé, le deuxième producteur de blé
+10 h p. m., 22 h, 22:00, 10 heures du soir
+poinçonner à 8 h 30., pointer à 8 h 30
+soulever un point d'ordre, faire appel au règlement, invoquer le règlement
+poll, bureau de vote, bureau de scrutin
+Post-it, papillon adhésif, papillon autocollant
+
+===== PAGE 10
+faire le post mortem de, faire le bilan, l'analyse (rétrospective), l'autopsie de, revenir sur
+pour fins d'évaluation, aux fins d'évaluation, pour évaluation
+pour les fins de la réunion, pour les besoins de la réunion, pour la réunion
+reçu pour fins d'impôt, reçu fiscal, reçu officiel
+Pour information; s'adresser à, Pour tous renseignements; s'adresser à, pour de plus amples renseignements; s'adresser à
+Pour votre information, À titre d'information, À titre de renseignement, À titre documentaire
+enveloppe préadressée et préaffranchie, enveloppe-réponse affranchie, enveloppe-réponse timbrée
+prendre le vote, mettre aux voix, procéder au vote
+prendre pour acquis, tenir pour acquis, pour admis, considérer comme acquis, considérer comme admis, admettre au départ,  presupposer, présumer
+prendre un cours, suivre un cours, un cours prérequis, un cours préalable
+prime de séparation, indemnité de départ, indemnité de cessation, indemnité d'emploi, indemnité de fin d'emploi
+prix d'admission, entrée, prix d'entrée
+les publicistes de cette agence, les publicitaires de cette agence
+puncher à 9h, pointer à 9h
+purchase order (PO), bon de commande, bulletin de commande, commande
+avoir les qualifications nécessaires, avoir la compétence professionnelle nécessaire, la qualification nécessaire
+Il a quitté, Il est parti
+rapport d'impôt, déclaration de revenus, déclaration d'impôt(s)
+se rapporter à son supérieur, rendre des comptes à son supérieur, rendre compte à son supérieur 
+se rapporter au travail, se présenter au travail
+Ready memo, notagramme, note-liasse
+Reçu paiement, Pour acquit, Paiement reçu, Payé
+Référant à votre lettre du…, En réponse à votre lettre du…, Pour faire suite à votre lettre du...
+médecin référant, médecin traitant, médecin orienteur
+organisme référant, organisme orienteur 
+cette affaire a été référée à, cette affaire a été confiée à
+référer un malade à un spécialiste, diriger un malade vers un spécialiste, envoyer un malade chez un spécialiste
+référer une question à un comité, soumettre une question à un comité, renvoyer une question à un comité
+lettre de référence(s), lettre de recommandation
+l'horaire régulier, l'horaire normal, l'horaire habituel
+le personnel régulier, le personnel permanent
+salaire régulier, le prix régulier, le prix courant
+salaire normal, salaire de base
+assemblée régulière, assemblée ordinaire
+rejoindre quelqu'un par téléphone, joindre quelqu'un par téléphone
+relocaliser des sinistrés, reloger des sinistrés
+le rempli d'un formulaire, les zones remplies d'un formulaire, les parties remplies d'un formulaire
+rencontrer des exigences rencontrer, se conformer à des exigences
+rencontrer des objectifs, atteindre des objectifs
+rencontrer une échéance, respecter une échéance
+avoir beaucoup de dépenses à rencontrer, devoir faire face à beaucoup de dépenses 
+augmenter la rénumération, augmenter la rémunération
+
+===== PAGE 11
+rénumérer le personnel, rémunérer le personnel 
+faire renverser les charges, appeler à frais virés, faire virer les frais 
+Avez-vous été répondu ?, Avez-vous été servi ?, Est-ce qu'on vous a répondu ?, Est-ce qu'on s'occupe de vous ?
+réquisition, demande d'achat/matériel/fournitures, bon de commande, bon de magasin
+une lettre de résignation, une lettre de démission
+être responsable pour la panne, être responsable pour la panne, être responsable de la panne
+Cette décision a résulté en une perte financière, Cette décision a occasionné, a entraîné une perte financière
+retenue (téléphone), garde, bouton de garde, de mise en attente
+adresse de retour, adresse de l'expéditeur 
+faire un retour d'appel, rappeler, rendre un appel, répondre à un appel
+retourner un appel, rappeler, rendre un appel, répondre à un appel
+Sans préjudice, Sous toutes réserves, Sous réserve de tous droits 
+sauver de l'argent, économiser, épargner, faire des économies 
+sauver du temps, gagner du temps 
+seconder une proposition, appuyer une proposition 
+secondeur, second proposeur, coproposant
+cadre senior, cadre supérieur, cadre supérieure
+commis senior, commis principal, premier commis
+d'après la séniorité, d'après l'ancienneté
+séparation, cessation d'emploi, départ
+Je vous serais gré de…, Je vous saurais gré de…
+Nous vous serions gré de, Nous vous saurions gré de... 
+servir un avertissement, donner un avertissement, signifier un avertissement
+Signalez 9, Faites le 9
+signaler un numéro de téléphone, composer un numéro de téléphone, faire un numéro de téléphone
+le site d'une nouvelle usine, l'emplacement d'une nouvelle usine
+SKU, unité de gestion des stocks, article de point de stock, article stock
+s'objecter à, s'opposer à, protester contre, se prononcer, s'élever contre
+soulever un point d'ordre, invoquer le règlement, faire appel au règlement, en appeler d'un règlement
+sous-contracteur, sous-traitant
+La situation est sous contrôle, On maîtrise la situation, On a la situation en main
+Tout est sous contrôle., Tout se déroule bien., Tout est rentré dans l'ordre., Nous avons tout prévu.
+Le projet est sous étude., Le projet est à l'étude.
+être sous l'impression que, avoir l'impression que, croire que
+sous observation, en observation
+assemblée; séance spéciale, assemblée; séance extraordinaire
+Il y a du statique sur la ligne., Il y a du brouillage sur la ligne.
+statut civil, état civil
+statut marital, état matrimonial
+storage, entreposage, garde-meubles, entrepôt
+subpoena, citation à comparaître
+Suite à notre conversation…, Pour faire suite à notre conversation…, À la suite de notre conversation…
+Suite à votre demande…, En réponse à votre demande… Pour donner suite à votre demande…
+Prix sujets à changement sans préavis, Prix indiqués sous réserve de modifications
+
+===== PAGE 12
+avoir le support de, avoir l'appui de, l'aide de, être soutenu, être aidé, être encouragé 
+supporter un athlète, parrainer un athlète, commanditer un athlète, soutenir financièrement un athlète 
+supporter une candidature, appuyer une candidature, soutenir une candidature
+supporter une oeuvre, soutenir une oeuvre 
+être sur un comité, être membre d'un comité, faire partie d'un comité
+siéger sur le conseil d'administration, siéger au conseil d'administration
+être sur l'horaire variable, avoir l'horaire variable, bénéficier de l'horaire variable
+sur les heures de travail, pendant les heures de travail
+On se fie sur vous, On se fie à vous
+sur semaine, en semaine
+faire du surtemps, faire des heures supplémentaires
+technicalités, détails de procédure, points de détail 
+recevoir un téléphone, recevoir un appel, recevoir un coup de téléphone 
+tel que convenu, comme convenu
+tel que promis, comme promis
+tel que prévu, comme prévu
+feuille de temps, feuille de présence, fiche de présence
+temps double, salaire majoré de 100%, heures majorées de 100%
+temps et demi, salaire majoré de 50%, heures majorées de 50%
+temps simple, salaire normal, salaire de base
+faire du temps supplémentaire, faire des heures supplémentaires
+un calendrier de travail tentatif, un calendrier de travail expérimental, un calendrier de travail provisoire, un calendrier de travail temporaire
+tentativement, à titre d'essai, provisoirement
+termes et conditions, conditions générales de vente
+transiger avec une société, traiter avec une société, négocier avec une société, être en relation d'affaires avec une société
+attendre dix bonnes minutes, attendre un bon dix minutes
+faire partie de l'union, faire partie du syndicat, être syndiqué
+unité, appartement, bureau, porte
+varia, questions diverses, divers 
+représentant des ventes, représentant de commerce
+acheter un article en vente, acheter un article en solde, acheter un article en réclame, acheter un article en promotion, acheter un article au rabais 
+vente de garage, vente-débarras
+vente de trottoir, braderie
+le verbatim de l'intervention, le mot à mot de l'intervention, la transcription de l'intervention 
+versus (vs), contre (c.) par opposition à, par rapport à, comparé à, opposé à
+communiquer par Internet, communiquer via Internet

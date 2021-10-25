@@ -6,8 +6,8 @@ import shuffle from "./Shuffle";
 
 const StatusMessage = [
     "Cliquez sur un des choix pour commencer.",
-    "Bonne réponse. L'anglicisme est: ",
-    "Mauvaise réponse. L'anglicisme est: "
+    "Bonne réponse. L'anglicisme était: ",
+    "Mauvaise réponse. Ceci est un anglicisme: "
 ];
 
 class QuizApp extends Component {
@@ -28,12 +28,12 @@ class QuizApp extends Component {
         const {score, num} = this.state
         if (question.answer === pressed) {
             this.setState({
-                score: score + 1,
-                status: StatusMessage[1] + (' ' + question.answer).slice(1),
+                status: StatusMessage[2] + (' ' + question.answer).slice(1),
             })
         } else {
             this.setState({
-                status: StatusMessage[2] + (' ' + question.answer).slice(1),
+                score: score + 1,
+                status: StatusMessage[1] + (' ' + question.answer).slice(1),
             })
         }
         this.setState({

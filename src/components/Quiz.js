@@ -5,7 +5,7 @@ class Quiz extends Component {
     state = { windowWidth: 0, windowHeight: 0 };
 
     render() {
-        let percent = 100;
+        let percent = 0;
         if (this.props.num != 0) {
             percent = Math.round((this.props.score / this.props.num) * 100);
         }
@@ -15,7 +15,7 @@ class Quiz extends Component {
         return (
             <div className="app">
                 <h1>Questionnaire de pratique sur les anglicismes</h1>
-                <h3>Trouvez lequel de ces expression est un anglicisme</h3>
+                <h3>Choisisez une expression qui n'est pas un anglicisme</h3>
                 <div>
                     <QuestionList
                         question={this.props.questions[this.props.num]}
@@ -25,9 +25,9 @@ class Quiz extends Component {
                 <div className="success-bar-bg">
                     <div className="success-bar" style={barStyle}/>
                 </div>
-                <p className="text-success">{this.props.score} / {this.props.num}</p>
+                <p className="text-success">{percent}% ― {this.props.score} / {this.props.num}</p>
                 <div className="division"/>
-                <p class="text-correct-answer">{this.props.status}</p>
+                <p class="text-correct-answer">{this.props.status} ({this.props.num} / 494 questions)</p>
             </div>
         );
     }
