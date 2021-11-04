@@ -294,7 +294,7 @@ le prix de liste, le prix courant
 le livre des minutes, le registre des procès-verbaux
 demander le local 37, demander le poste 37
 loger un appel (domaine judiciaire), interjeter appel, en appeler de
-loger un appel (téléphonique), faire un appel téléphonique téléphoner, appeler
+loger un appel (téléphonique), faire un appel téléphonique, téléphoner, appeler
 loger un grief, déposer un grief, présenter un grief
 loger une plainte, déposer une plainte, porter plainte
 un appel longue distance, un appel interurbain, un interurbain une communication interurbaine
@@ -440,7 +440,7 @@ Avez-vous été répondu ?, Avez-vous été servi ?, Est-ce qu'on vous a répond
 réquisition, demande d'achat/matériel/fournitures, bon de commande, bon de magasin
 une lettre de résignation, une lettre de démission
 être responsable pour la panne, être responsable pour la panne, être responsable de la panne
-Cette décision a résulté en une perte financière, Cette décision a occasionné, a entraîné une perte financière
+Cette décision a résulté en une perte financière, Cette décision a occasionné une perte financière, Cette décision a entraîné une perte financière
 retenue (téléphone), garde, bouton de garde, de mise en attente
 adresse de retour, adresse de l'expéditeur
 faire un retour d'appel, rappeler, rendre un appel, répondre à un appel
