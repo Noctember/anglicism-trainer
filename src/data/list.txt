@@ -208,7 +208,7 @@ l'étampe du Service de révision, le timbre du Service de révision, le tampon 
 message à être distribué au personnel, message à distribuer au personnel
 étude légale, cabinet (d'avocat[s]), étude (de notaire)
 l'exécutif, le conseil ou le comité de direction, le bureau
-secrétaire exécutif, exécutive, secrétaire de direction, secrétaire administratif, secrétaire administrative
+secrétaire exécutif/exécutive, secrétaire de direction, secrétaire administratif, secrétaire administrative
 vice-président exécutif/vice-présidente exécutive, vice-président-directeur/vice-présidente-directrice
 exempt taxe fédérale, exempt de taxe fédérale, exemption : taxe fédérale
 extension 24, poste 24
