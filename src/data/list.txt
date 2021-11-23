@@ -6,7 +6,7 @@ Abrévier, Abréger
 année académique, année scolaire, année universitaire,
 Il veut s'accaparer le marché., Il veut accaparer le marché., Il veut s'emparer du marché.
 Il s'en est accaparé., Il l'a accaparé
-employer un mot dans son acceptation courante., employer un mot dans son acception courante
+employer un mot dans son acceptation courante, employer un mot dans son acception courante
 à date / jusqu'à date, à ce jour, jusqu'à maintenant / jusqu'ici / jusqu'à présent
 mettre un ouvrage à date, mettre un ouvrage à jour
 admission, entrée
@@ -143,7 +143,7 @@ un déductible de 200 $, une franchise de 200 $
 défrayer les dépenses de quelqu'un, défrayer quelqu'un, lui payer ses dépenses, lui rembourser ses frais
 degré d'instruction, scolarité, études, niveau de scolarité
 demander une question, poser une question
-acheter le démonstrateur, acheter l'article en démonstration, acheter l'article en montre, acheter l'article la voiture d'essai
+acheter le démonstrateur, acheter l'article en démonstration, acheter l'article en montre, acheter l'article/la voiture d'essai
 subir une démotion, subir une rétrogradation, subir un déclassement
 Adressez-vous au département des jouets, Adressez-vous au rayon des jouets
 département de service, service auxiliaire, service de l'entretien
@@ -166,7 +166,7 @@ taux d'échange, taux de change
 effectif au, en vigueur le, à partir du
 
 ===== PAGE 5
-date effective, date d'entrée en vigueur, date d'entrée en application, date d'effet, prise d'effet
+date effective, date d'entrée en vigueur, date d'entrée en application, date d'effet, date de prise d'effet
 ne pas élaborer, ne pas donner de détails, ne pas donner de précisions, ne pas s'étendre
 être éligible à une indemnité, être admissible à une indemnité
 être éligible pour un emploi/concours, être admissible à un emploi/concours
@@ -264,7 +264,7 @@ initialer une note, parafer une note, apposer ses initiales sur une note
 initialer un document, parafer un document, apposer ses initiales sur un document
 initier une recherche, commencer une recherche, entamer une recherche, entreprendre une recherche
 les personnes intéressées à participer, les personnes désireuses de participer les personnes qui souhaitent, qui désirent participer
-les personnes intéressées au dossier, les personnes qui s'intéressent au dossier les personnes que le dossier intéresse
+les personnes intéressées au dossier, les personnes qui s'intéressent au dossier, les personnes que le dossier intéresse
 avoir un article en inventaire, avoir un article en stock, avoir un article en magasin
 faire la rotation des inventaires, faire la rotation des stocks
 un item de discussion, un sujet de discussion

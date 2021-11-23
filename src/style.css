@@ -75,7 +75,7 @@ h1, h3 {
 .answers-element {
     border: #7f1edf;
     border-style: solid;
-    border-width: 2px;
+    border-width: 2px; 
     border-radius: 20px;
     text-align: center;
     padding: 10px;
@@ -93,8 +93,8 @@ h1, h3 {
 }
 
 .answers-element:hover {
-    transform: scale(1.02);
     background-color: #7f1edf;
+    box-shadow: 0 0px 12px 0 #7f1edf;
 }
 
 .answers-element:active {
@@ -104,7 +104,7 @@ h1, h3 {
 
 .success-bar-bg {
     min-height: 5px;
-    border-radius: 2.5px;
+    border-radius: 5px;
     background-color: rgb(255 34 34);
     display: flex;
     margin: 20px 30px 0px 30px;
@@ -113,6 +113,7 @@ h1, h3 {
 .success-bar {
     background-color: rgb(98, 253, 118);
     transition: all 1s ease-in-out;
+    border-radius: 5px;
 }
 
 .text-success {
@@ -144,7 +145,7 @@ h1, h3 {
     background-color: #090030;
     border-radius: 20px;
     padding: 2px 10px;
-    
+
     /*min-width: 20px;*/
     height: 20px;
     display: flex;
