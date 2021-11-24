@@ -5,8 +5,9 @@ body {
 }
 
 .container {
-    background: rgb(9, 13, 121);
-    background: linear-gradient(21deg, rgba(9, 13, 121, 1) 0%, rgba(61, 9, 121, 1) 45%, rgba(136, 0, 170, 1) 100%);
+    /*background: rgb(9, 13, 121);
+    background: linear-gradient(21deg, rgba(9, 13, 121, 1) 0%, rgba(61, 9, 121, 1) 45%, rgb(97 3 98) 100%);*/
+    background-color: rgb(9 0 48);
     width: 100vw;
     min-height: 100vh;
     position: fixed;
@@ -31,7 +32,7 @@ h1, h3 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(0.8);
-    box-shadow: 0 10px 12px 0px rgb(0 0 0 / 20%);
+    box-shadow: 0 0px 24px 0px rgb(127 30 223 / 100%);
     touch-action: none;
     overflow: hidden;
 }
@@ -103,15 +104,15 @@ h1, h3 {
 }
 
 .success-bar-bg {
-    min-height: 5px;
+    min-height: 10px;
     border-radius: 5px;
-    background-color: rgb(255 34 34);
+    background-color: rgb(38 21 114);
     display: flex;
     margin: 20px 30px 0px 30px;
 }
 
 .success-bar {
-    background-color: rgb(98, 253, 118);
+    background-color: #7f1edf;
     transition: all 1s ease-in-out;
     border-radius: 5px;
 }
@@ -129,7 +130,7 @@ h1, h3 {
 }
 
 .text-correct-answer {
-    font-size: 15px;
+    font-size: 20px;
     text-align: left;
     margin: 20px 10px 0px 10px;
     font-weight: bold;

@@ -118,7 +118,59 @@ Chargez cela à mon compte, Mettez cela sur mon compte, Portez cela à mon compt
 chiffre de jour, le poste de jour, le quart de jour
 shift de jour, le poste de jour, le quart de jour
 
-===== PAGE 4
+===== PAGE 4 (Merci à amin_nma sur discord)
+être sur le shift de, être affecté au poste de, être affecté à l'équipe de
+vous trouverez ci-attaché, vous trouverez ci-joint, vous trouverez ci-annexé
+ci-bas, ci-desosus, ci-après
+ci-haut, ci-dessus, plus haut, précédemment
+circulaire, dépliant, prospectus, cahier publicitaire
+numéro civique, numéro d’immeuble
+gagner 100 $ clair, gagner 100$ net
+clairer ses dettes, payer ses dettes, rembourser ses dettes
+clairer quelqu'un, congédier quelqu’un
+clause nonobstant, disposition de dérogation, disposition dérogatoire
+clause orphelin, clause de disparité, clause de traitement
+personnel clérical, personnel de bureau
+travail clérical, travail de bureau
+corriger une erreur cléricale, corriger une erreur matérielle, corriger une erreur d’écriture, corriger une faute de frappe, corriger une faute, corriger une erreur de copiste
+client facture originale, facture originale, exemplaire du client
+client par, signature du client
+client quantité, quantité commandée, quantité demandée
+une cocarde de congressiste, un porte-nom de congressiste
+expédier quelque chose COD, expédier quelque chose contre, payable à la livraison
+collecter des impôts, percevoir des impôts
+la collecte des impôts, la perception des impôts
+collecter des taxe, percevoir des taxes
+combler un poste, pourvoir un poste, pourvoir à un poste
+commande client, numéro de commande du client
+faire passer un commercial, faire passer un message publicitaire
+compagnie de finance, société de prêts, société de crédit, société de financement, établissement de crédit
+le complètement d'un formulaire, le fait de remplir un formulaire
+compléter un formulaire, remplir un formulaire
+la complétion des travaux, achèvement des travaux
+compliments de la saison, Joyeux Noël et bonne année, Meilleurs voeux pour Noël et la nouvelle année, Joyeuses fêtes
+comptes payables, comptes fournisseurs
+comptes recevables, comptes clients
+compte tenu que, compte tenu de, compte tenu du fait que
+être confiant que, être convaincu, être sûr, être persuadé que, avoir bon espoir que
+être confronté par un problème, faire face à un problème
+être confronté à un problème, affronter un problème, devoir affronter un problème
+dans la conjecture économique actuelle, dans la conjoncture économique actuelle
+comité conjoint, comité mixte, comité paritaire
+avoir des connexions, avoir des relations
+un chiffre conservateur, un chiffre prudent, un chiffre modéré
+des chiffres conservateurs, des chiffres prudents, des chiffres modérés
+construction, travaux
+contracteur, entrepreneur
+sous-contracteur, sous-traitant
+il été contraint malgré lui de démissionner, il a été contraint de démissionner
+participer à une convention, participer à un congrès
+acheter deux copies d'un journal, acheter deux exemplaires d’un journal
+citoyen corporatif, entreprise citoyenne, dirigeant citoyen
+client corporatif, société cliente, entreprise cliente
+droit corporatif : [droit commercial, droit des entreprises
+
+===== PAGE 5
 nom corporatif, nom de société, dénomination sociale, raison sociale
 profil corporatif, profil d'entreprise
 tarif corporatif, tarif d'entreprise
@@ -165,7 +217,7 @@ Duo-Tang, classeur à attaches, reliure à attaches
 taux d'échange, taux de change
 effectif au, en vigueur le, à partir du
 
-===== PAGE 5
+===== PAGE 6
 date effective, date d'entrée en vigueur, date d'entrée en application, date d'effet, date de prise d'effet
 ne pas élaborer, ne pas donner de détails, ne pas donner de précisions, ne pas s'étendre
 être éligible à une indemnité, être admissible à une indemnité
@@ -214,7 +266,7 @@ exempt taxe fédérale, exempt de taxe fédérale, exemption : taxe fédérale
 extension 24, poste 24
 extensionner un délai, prolonger un délai
 
-===== PAGE 6
+===== PAGE 7
 date facturée, date de facturation
 faire un retour d'appel, rappeler, répondre à un (ou des) appel(s), répondre à un (ou des) message(s) téléphonique(s
 trouver un faux prétexte, trouver un prétexte, une fausse raison
@@ -254,7 +306,7 @@ Vous n'êtes pas sans ignorer., Vous n'ignorez pas., Vous n'êtes pas sans savoi
 Il me (nous) fait plaisir de, J'ai (Nous avons) le plaisir de, C'est avec plaisir que je (nous)
 imputabilité des gestionnaires, responsabilité des gestionnaires, responsabilisation des gestionnaires, obligation de rendre compte
 
-===== PAGE 7
+===== PAGE 8
 Les gestionnaires sont imputables à…, Les gestionnaires sont responsables devant…, Les gestionnaires sont comptables à…
 une conduite inappropriée, une conduite déplacée, un conduite inconvenante
 un moment inapproprié, un moment inopportun, un mauvais moment
@@ -301,7 +353,7 @@ un appel longue distance, un appel interurbain, un interurbain une communication
 un longue distance, un appel interurbain, un interurbain une communication interurbaine
 Ils l'ont aidé à finir le travail., Ils lui ont aidé à finir le travail.
 
-===== PAGE 8
+===== PAGE 9
 La malle est arrivée, Le courrier est arrivé
 envoyer une lettre par la malle, envoyer une lettre par la poste
 maller une lettre, poster une lettre, mettre une lettre à la poste
@@ -342,7 +394,7 @@ il y a une ouverture, il y a un emploi vacant, il y a une vacance, il y a un pos
 de nouvelles ouverturese, de nouveaux débouchés
 Pagette, téléavertisseur, radiomessageur, messageur, récepteur de radiomessagerie
 
-=== PAGE 9
+=== PAGE 10
 appeler quelqu'un sur sa Pagette, appeler quelqu'un par téléavertisseur, appeler quelqu'un par radiomessagerie
 pager quelqu'un, téléavertir, envoyer un message à quelqu'un
 paie de vacances, indemnité de vacances
@@ -389,7 +441,7 @@ soulever un point d'ordre, faire appel au règlement, invoquer le règlement
 poll, bureau de vote, bureau de scrutin
 Post-it, papillon adhésif, papillon autocollant
 
-===== PAGE 10
+===== PAGE 11
 faire le post mortem de, faire le bilan, l'analyse (rétrospective), l'autopsie de, revenir sur
 pour fins d'évaluation, aux fins d'évaluation, pour évaluation
 pour les fins de la réunion, pour les besoins de la réunion, pour la réunion
@@ -433,7 +485,7 @@ rencontrer une échéance, respecter une échéance
 avoir beaucoup de dépenses à rencontrer, devoir faire face à beaucoup de dépenses
 augmenter la rénumération, augmenter la rémunération
 
-===== PAGE 11
+===== PAGE 12
 rénumérer le personnel, rémunérer le personnel
 faire renverser les charges, appeler à frais virés, faire virer les frais
 Avez-vous été répondu ?, Avez-vous été servi ?, Est-ce qu'on vous a répondu ?, Est-ce qu'on s'occupe de vous ?
@@ -479,7 +531,7 @@ Suite à notre conversation…, Pour faire suite à notre conversation…, À la
 Suite à votre demande…, En réponse à votre demande…, Pour donner suite à votre demande…
 Prix sujets à changement sans préavis, Prix indiqués sous réserve de modifications
 
-===== PAGE 12
+===== PAGE 13
 avoir le support de, avoir l'appui de, l'aide de, être soutenu, être aidé, être encouragé
 supporter un athlète, parrainer un athlète, commanditer un athlète, soutenir financièrement un athlète
 supporter une candidature, appuyer une candidature, soutenir une candidature

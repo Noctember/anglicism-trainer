@@ -27,7 +27,7 @@ class Quiz extends Component {
                 </div>
                 <p className="text-success">{percent}% ― {this.props.score} / {this.props.num}</p>
                 <div className="division"/>
-                <p class="text-correct-answer">{this.props.status} ({this.props.num} / 494 questions)</p>
+                <p class="text-correct-answer">{this.props.status} ({this.props.num} / 545 questions)</p>
             </div>
         );
     }
