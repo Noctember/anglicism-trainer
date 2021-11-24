@@ -3,7 +3,7 @@
 À:, Destinataires:, Destinataire:
 Abrevoir, Fontaine
 Abrévier, Abréger
-année académique, année scolaire, année universitaire,
+année académique, année scolaire, année universitaire
 Il veut s'accaparer le marché., Il veut accaparer le marché., Il veut s'emparer du marché.
 Il s'en est accaparé., Il l'a accaparé
 employer un mot dans son acceptation courante, employer un mot dans son acception courante
@@ -33,7 +33,7 @@ anticiper une amélioration, s'attendre à une amélioration, prévoir une amél
 être anxieux de connaître les résultats, avoir hâte de connaître les résultas
 un appel conférence, une conférence téléphonique
 faire une application, faire une demande d'emploi, poser sa candidature, postuler
-appliquer à un poste, poser da candidature à une poste
+appliquer à un poste, poser sa candidature à une poste
 un appointement, un rendez-vous
 J'apprécierais que vous..., Je souhaiterais que vous..., Je vous serais reconnaisant de..., Je vous saurais gré de...
 J'apprécierais rencontrer, Je souhaiterais rencontrer, Je désirerais rencontre, Je serais heureux de rencontrer
@@ -77,7 +77,7 @@ toucher un bénéfice en vertu de, toucher une indemnité en vertu de, toucher u
 bénéfices marginaux, avantages sociaux
 Cette mesure va bénéficier à beaucoup de gens, Cette mesure va profiter à beaucoup de gens.
 en avoir de besoin, en avoir besoin
-Bienvenue! (en réponse à «Merci ! ») De rien! (en réponse à «Merci ! »), Il n'y a pas de quoi! (en réponse à «Merci ! »), Je vous en prie! (en réponse à «Merci ! »)
+Bienvenue! (en réponse à «Merci ! »), De rien! (en réponse à «Merci ! »), Il n'y a pas de quoi! (en réponse à «Merci ! »), Je vous en prie! (en réponse à «Merci ! »)
 offrir un billet de saison, offrir un billet d'abonnement
 un blanc de chèque, une formule de chèque, un chèque
 avoir un blanc de mémoire, avoir un trou de mémoire
@@ -226,7 +226,7 @@ figurer le coût de, estimer le coût, prévoir le coût, calculer le coût
 ranger un dossier dans la filière, ranger un dossier dans le classeur
 une décision finale, une décision sans appel
 une version finale, une version définitive
-année fiscale, année financière, budgétaire exercice financier, exercice
+année fiscale, année financière, budgétaire exercice financier
 un chèque sans fonds, un chèque sans provision
 forger une signature, contrefaire une signature, imiter une signature
 Deux sociétés se sont fusionnées, Deux sociétés ont fusionné
