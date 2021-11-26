@@ -1,4 +1,4 @@
-import {Component} from "react";
+import React, {Component} from "react";
 import QuestionList from "./QuestionList";
 
 class Quiz extends Component {

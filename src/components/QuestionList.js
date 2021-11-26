@@ -1,4 +1,4 @@
-import {Component} from "react";
+import React, {Component} from "react";
 import shuffle from "./Shuffle";
 
 class AnswerBox extends Component {

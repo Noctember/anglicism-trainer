@@ -1,4 +1,4 @@
-import {Component, Fragment} from "react";
+import React, {Component, Fragment} from "react";
 import Quiz from './Quiz'
 import {questions} from '../data/questions'
 import shuffle from "./Shuffle";
