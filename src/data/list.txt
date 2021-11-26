@@ -57,7 +57,7 @@ pour aussi peu que 20 $, pour la modique somme de 20 $, pour seulement 20 $
 aux quatre heures, toutes les quatre heures
 Cette information s'est avérée fausse/vraie, Cette information s'est révélée fausse/vraie
 aviseur légal, conseiller/conseillère juridique
-aviseur technique, conseiller/conseillère  technique
+aviseur technique, conseiller/conseillère technique
 comité aviseur, comité consultatif, comité conseil
 dans le background, dans le fond, dans le décor en arrière-plan
 avoir un background intéressant, avoir un dossier intéressant, un bagage intéressant, une expérience professionnelle intéressante, des connaissances intéressantes, des antécédents intéressants
@@ -168,7 +168,7 @@ participer à une convention, participer à un congrès
 acheter deux copies d'un journal, acheter deux exemplaires d’un journal
 citoyen corporatif, entreprise citoyenne, dirigeant citoyen
 client corporatif, société cliente, entreprise cliente
-droit corporatif : [droit commercial, droit des entreprises
+droit corporatif, droit commercial, droit des entreprises
 
 ===== PAGE 5
 nom corporatif, nom de société, dénomination sociale, raison sociale
@@ -450,7 +450,7 @@ Pour information; s'adresser à, Pour tous renseignements; s'adresser à, pour d
 Pour votre information, À titre d'information, À titre de renseignement, À titre documentaire
 enveloppe préadressée et préaffranchie, enveloppe-réponse affranchie, enveloppe-réponse timbrée
 prendre le vote, mettre aux voix, procéder au vote
-prendre pour acquis, tenir pour acquis, pour admis, considérer comme acquis, considérer comme admis, admettre au départ,  presupposer, présumer
+prendre pour acquis, tenir pour acquis, pour admis, considérer comme acquis, considérer comme admis, admettre au départ, presupposer, présumer
 prendre un cours, suivre un cours, un cours prérequis, un cours préalable
 prime de séparation, indemnité de départ, indemnité de cessation, indemnité d'emploi, indemnité de fin d'emploi
 prix d'admission, entrée, prix d'entrée
